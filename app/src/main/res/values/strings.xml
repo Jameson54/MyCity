@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewCity</string>
+
+    <string name="category_restaurants">Рестораны</string>
+    <string name="category_parks">Парки</string>
+    <string name="category_coffee">Кофейни</string>
+
+    <string name="place_rest_1">Итальянский ресторан</string>
+    <string name="desc_rest_1">Лучшая паста в городе.</string>
+    <string name="place_rest_2">Стейк-хаус</string>
+    <string name="desc_rest_2">Сочные стейки и отличное вино.</string>
+    <string name="place_park_1">Центральный парк</string>
+    <string name="desc_park_1">Идеальное место для прогулок.</string>
+    <string name="place_park_2">Набережная</string>
+    <string name="desc_park_2">Красивый вид на реку.</string>
+    <string name="place_coffee_1">Кофейня "Утро"</string>
+    <string name="desc_coffee_1">Свежая выпечка и ароматный кофе.</string>
+</resources>
